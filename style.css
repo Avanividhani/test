@@ -64,7 +64,6 @@
       aspect-ratio: var(--ratio-square);
       max-inline-size: 100%;
       background-image: var(--gradient-8);
-      height: 400px;
     }
 
     & > button {
