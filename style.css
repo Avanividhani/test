@@ -61,7 +61,7 @@
     gap: calc(var(--border-size-2) * 2);
 
     & img {
-      aspect-ratio: var(--ratio-square);
+      aspect-ratio: var(--ratio-rect);
       max-inline-size: 100%;
       background-image: var(--gradient-8);
     }
