@@ -225,6 +225,7 @@
   #nextBtn {
     animation: auto next ease;
     animation-timeline: --carousel;
+    color: gray;
 
     /* fix bug scrollPort nextBtn visibility */
     animation-range: 0% 101%;
@@ -233,6 +234,7 @@
   #prevBtn {
     animation: auto prev ease;
     animation-timeline: --carousel;
+    color: gray;
   }
 
   @keyframes prev {
